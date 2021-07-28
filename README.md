@@ -6,13 +6,12 @@
  > composer install
  > php spark serve
 ```
-## Reminders: Don't forget to update php.ini
-
-In `php.ini` just enable the `extension=intl`
-
 > index.php in route is already removed
 > 
 > just simply goto `http://localhost:8080/users-list` instead of ~~`http://localhost:8080/index.php/users-list`~~
+
+## Reminders: Don't forget to update php.ini
+In `php.ini` just enable the `extension=intl`
 
 ## Important Change with index.php
 
