@@ -1,5 +1,11 @@
 # CodeIgniter 4 Framework
 
+``` sh
+ > git clone
+ > cd codeigniter4-crud
+ > composer install
+ > php spark serve
+```
 ## Important Change with index.php
 
 `index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
