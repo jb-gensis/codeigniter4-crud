@@ -11,7 +11,8 @@
 In `php.ini` just enable the `extension=intl`
 
 > index.php in route is already removed
-> Just simply goto `http://localhost:8080/users-list` instead of ~~`http://localhost:8080/index.php/users-list`~~
+> 
+> just simply goto `http://localhost:8080/users-list` instead of ~~`http://localhost:8080/index.php/users-list`~~
 
 ## Important Change with index.php
 
