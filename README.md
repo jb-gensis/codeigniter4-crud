@@ -6,6 +6,9 @@
  > composer install
  > php spark serve
 ```
+## Reminders: Don't forget to update php.ini
+
+In `php.ini` just enable the `extension=intl`
 
 ## Important Change with index.php
 
