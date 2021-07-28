@@ -6,7 +6,7 @@
  > composer install
  > php spark serve
 ```
-> import demo.sql file in phpmyadmin
+> Don't forget to import demo.sql file in phpmyadmin
 > 
 > index.php in route is already removed
 > 
