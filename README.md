@@ -6,6 +6,8 @@
  > composer install
  > php spark serve
 ```
+> import demo.sql file in phpmyadmin
+> 
 > index.php in route is already removed
 > 
 > just simply goto `http://localhost:8080/users-list` instead of ~~`http://localhost:8080/index.php/users-list`~~
